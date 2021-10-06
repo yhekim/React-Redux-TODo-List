@@ -1,4 +1,4 @@
-## React Redux Lifting State Up Events
+## React Redux TODO LIST Events
 
 -An example of how Lifting State Up Events in React-Redux.
 
